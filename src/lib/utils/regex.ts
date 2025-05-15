@@ -1,1 +1,1 @@
-export const HttpRegex = /^((http|https):\/\/)/;
+export const HttpRegex = /^((http|https):\/\/)/;  

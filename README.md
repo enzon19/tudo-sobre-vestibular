@@ -17,7 +17,7 @@ I achieved this with the help of SvelteKit. There is almost no JavaScript runnin
 
 # Demo site
 
-You can see the template live [on the demo site](https://sveltekit-static-blog-template.vercel.app/). Additionally, you can check all components in isolation [on Histoire](https://histoire-sveltekit-static-blog-template.vercel.app/).
+You can see the template live [on the demo site](https://tudosobrevestibular.com.br/). Additionally, you can check all components in isolation [on Histoire](https://histoire-sveltekit-static-blog-template.vercel.app/).
 
 # Building & Running Locally
 
